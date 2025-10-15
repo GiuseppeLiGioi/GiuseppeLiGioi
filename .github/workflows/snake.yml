@@ -1,9 +1,9 @@
 name: Generate GitHub Snake
 
-# Quando far partire il workflow
+
 on:
   schedule:
-    - cron: '0 0 * * *' # esegue ogni giorno a mezzanotte
+    - cron: '0 0 * * *'
     
 jobs:
   build:
