@@ -84,5 +84,4 @@
 
 
 
-> 💬 “{Una tua breve citazione o motto personale, es. _Il codice è poesia in movimento._}”
 
