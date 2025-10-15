@@ -1,7 +1,7 @@
 name: Generate GitHub Snake 🐍
 
 on:
-  workflow_dispatch:  
+  workflow_dispatch: 
   schedule:
     - cron: "0 0 * * *" 
 
@@ -22,10 +22,3 @@ jobs:
         with:
           github_user_name: GiuseppeLiGioi
           outputs: output/github-contribution-grid-snake.svg
-
-      # 3️⃣ Upload dell’artefatto (versione aggiornata)
-      - name: Upload Snake as artifact
-        uses: actions/upload-artifact@v3.1.2
-        with:
-          name: github-snake
-          path: output/github-contribution-grid-snake.svg
