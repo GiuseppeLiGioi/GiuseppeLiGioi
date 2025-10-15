@@ -84,10 +84,10 @@
 
 ### 🐍 My Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/GiuseppeLiGioi/GiuseppeLiGioi/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/GiuseppeLiGioi/GiuseppeLiGioi/output/github-snake-dark.svg#gh-dark-mode-only)
+![github-snake](https://raw.githubusercontent.com/GiuseppeLiGioi/GiuseppeLiGioi/main/output/github-snake.svg)
+![github-snake-dark](https://raw.githubusercontent.com/GiuseppeLiGioi/GiuseppeLiGioi/main/output/github-snake-dark.svg)
+![github-snake-gif](https://raw.githubusercontent.com/GiuseppeLiGioi/GiuseppeLiGioi/main/output/github-snake-ocean.gif)
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/GiuseppeLiGioi/GiuseppeLiGioi/output/github-snake-ocean.gif)
 
 
 
