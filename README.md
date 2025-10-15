@@ -82,9 +82,13 @@
 
 ---
 
-## 🐍 GitHub Snake  
+### 🐍 My Contribution Snake
 
-![github-snake](https://raw.githubusercontent.com/GiuseppeLiGioi/GiuseppeLiGioi/main/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/GiuseppeLiGioi/GiuseppeLiGioi/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/GiuseppeLiGioi/GiuseppeLiGioi/output/github-snake-dark.svg#gh-dark-mode-only)
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/GiuseppeLiGioi/GiuseppeLiGioi/output/github-snake-ocean.gif)
+
 
 
 
