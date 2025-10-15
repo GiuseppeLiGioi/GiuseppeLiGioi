@@ -1,6 +1,7 @@
 # 👋 Ciao, sono Giuseppe Li Gioi  
 
-🧑‍💻 **Junior Web Developer** Intraprendente e appassionato del settore, con passione per le interfacce moderne e lo sviluppo web.
+🧑‍💻 **Junior Web Developer**: Intraprendente e appassionato del settore, con passione per le interfacce moderne e lo sviluppo web.
+
 💫 Sempre motivato ad apprendere nuove tecnologie e strumenti per crescere professionalmente e migliorare le mie competenze.
 
 📍 **Olbia, Sardegna, Italia**  
