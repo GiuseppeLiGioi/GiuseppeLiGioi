@@ -1,9 +1,9 @@
 name: Generate GitHub Snake 🐍
 
 on:
-  workflow_dispatch:  
+  workflow_dispatch:  # esegui manualmente
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *" # automatico a mezzanotte UTC
 
 jobs:
   generate:
@@ -16,9 +16,16 @@ jobs:
         with:
           persist-credentials: false
 
-      # 2️⃣ Generazione Snake statico SVG
+      # 2️⃣ Generazione Snake SVG statico
       - name: Generate Snake static SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: GiuseppeLiGioi
           outputs: output/github-contribution-grid-snake.svg
+
+      # 3️⃣ Optional: upload artifact (se vuoi scaricarlo direttamente)
+      - name: Upload Snake as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: github-snake
+          path: output/github-contribution-grid-snake.svg
