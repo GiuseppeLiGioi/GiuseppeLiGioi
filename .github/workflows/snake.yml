@@ -1,1 +1,19 @@
+name: Generate GitHub Snake
 
+# Quando far partire il workflow
+on:
+  schedule:
+    - cron: '0 0 * * *' # esegue ogni giorno a mezzanotte
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.3.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          theme: github-dark 
