@@ -26,3 +26,13 @@ jobs:
             output/github-snake.svg
             output/github-snake-dark.svg?palette=github-dark
             output/github-snake-ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+       # 3️⃣ Commit & push dei file generati
+      - name: Commit & Push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: "GitHub Actions"
+          author_email: "actions@github.com"
+          message: "Add generated GitHub Snake"
+          add: "output/*"
+
