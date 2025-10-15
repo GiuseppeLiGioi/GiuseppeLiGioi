@@ -23,7 +23,8 @@
 
 | Project | Description | Tech Stack | Repo |
 |----------|--------------|------------|------|
-| **PersonalPortfolio**      (🟢 In corso) | Sviluppo del mio sito personale per raccogliere e mostrare i miei progetti + link alle piattaforme professionali. | React.js, JavaScript, CSS, HTML5 | [![GitHub Repo](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/GiuseppeLiGioi/personal-portfolio) |
+| **PersonalPortfolio**
+(🟢 In corso) | Sviluppo del mio sito personale per raccogliere e mostrare i miei progetti + link alle piattaforme professionali. | React.js, JavaScript, CSS, HTML5 | [![GitHub Repo](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/GiuseppeLiGioi/personal-portfolio) |
 | **PulseFit** | App full-stack per gestire allenamenti e progressi, con autenticazione JWT, CRUD schede/esercizi, monitoraggio progressi e Stripe per i pagamenti. | React.js, React Router, Context API, JWT, Node.js, Express, MySQL, WorkBench, bcrypt, Stripe, CSS | [![GitHub Repo](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/GiuseppeLiGioi/gym-card) |
 | **FinanceDashboard** | App web moderna per la gestione delle finanze personali, con dashboard interattiva, grafici, filtri, tema scuro/chiaro e CSV import/export. | React.js, Bootstrap, Chart.js, Recharts, React Router, PapaParse, React-Toastify | [![GitHub Repo](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/GiuseppeLiGioi/personal-finance-dashboard) |
 | **KickShop** | E-commerce sportivo realizzato in team, con homepage dinamica, ricerca avanzata, wishlist, carrello e checkout con email HTML e validazioni. | React.js, Node.js, Express, MySQL Workbench, Mailtrap | [![GitHub Repo](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/GiuseppeLiGioi/kick-shop) |
