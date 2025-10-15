@@ -1,7 +1,8 @@
 name: Generate GitHub Snake 🐍
 
+
 on:
-  workflow_dispatch: 
+  workflow_dispatch:  
   schedule:
     - cron: "0 0 * * *" 
 
@@ -16,9 +17,12 @@ jobs:
         with:
           persist-credentials: false
 
-      # 2️⃣ Generazione Snake SVG statico
-      - name: Generate Snake static SVG
-        uses: Platane/snk/svg-only@v3
+      # 2️⃣ Genera Snake SVG
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          github_user_name: GiuseppeLiGioi
-          outputs: output/github-contribution-grid-snake.svg
+          github_user_name: GiuseppeLiGioi  
+          outputs: |
+            output/github-snake.svg
+            output/github-snake-dark.svg?palette=github-dark
+            output/github-snake-ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
