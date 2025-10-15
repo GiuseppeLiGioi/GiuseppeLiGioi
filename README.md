@@ -1,10 +1,10 @@
-# 👋 Ciao, sono {Giuseppe Li Gioi}  
+# 👋 Ciao, sono Giuseppe Li Gioi  
 
-🧑‍💻 **{Junior Web Developer}** Intraprendente e appassionato del settore, con passione per le interfacce moderne e lo sviluppo web.
+🧑‍💻 **Junior Web Developer** Intraprendente e appassionato del settore, con passione per le interfacce moderne e lo sviluppo web.
 💫 Sempre motivato ad apprendere nuove tecnologie e strumenti per crescere professionalmente e migliorare le mie competenze.
 
-📍 **{Olbia, Sardegna, Italia}**  
-📧 **{giuseppe.li.gioi.job@gmail.com}**  
+📍 **Olbia, Sardegna, Italia**  
+📧 **giuseppe.li.gioi.job@gmail.com**  
 [LinkedIn](https://www.linkedin.com/in/giuseppe-li-gioi-327b78378) • [GitHub](https://github.com/GiuseppeLiGioi)
 
 ---
@@ -13,10 +13,10 @@
 
 | Project | Description | Tech Stack | Links |
 |----------|--------------|------------|--------|
-| 🟢 **{PersonalPortfolio}** | {Sviluppo del mio sito personale per raccogliere e mostrare i miei progetti + link alle piattaforme professionali} *(in corso)* | {Tecnologie principali: React.js, Javascript, CSS, HTML5} | [Repo](https://github.com/GiuseppeLiGioi/personal-portfolio) |
-| **{PulseFit}** | {App full-stack per gestire allenamenti e progressi, con autenticazione utente, CRUD per schede/esercizi, monitoraggio progressi utente e Stripe per pagamenti.} | {React.js, React Router, Context API, JWT, Node.js, Express, MySQL, WorkBench, bcrypt, Stripe, CSS} | [Repo](https://github.com/GiuseppeLiGioi/gym-card) |
-| **{FinanceDashboard}** | {Web app moderna e responsive per gestire finanze personali: con dashboard interattiva, gestione transazioni, grafici dinamici, tema chiaro/scuro, multilingua e import/export CSV.} | {React.js, Bootstrap CSS, Chart.js, Recharts, React Router, PapaParse e React-Toastify.} | [Repo](https://github.com/GiuseppeLiGioi/personal-finance-dashboard) |
-| **{KickShop}** | {E-commerce di articoli sportivi realizzato in team, con homepage dinamica, ricerca avanzata, pagina prodotto dettagliata, wishlist/carrello, checkout con validazioni e email di conferma. Backend sicuro e gestione completa dei dati.} | {React.js, Node.js, Express, MySQL-Wokbench e Mailtrap.} | [Repo](https://github.com/GiuseppeLiGioi/kick-shop) |
+| **PersonalPortfolio** (🟢 In corso) | Sviluppo del mio sito personale per raccogliere e mostrare i miei progetti + link alle piattaforme professionali.| Tecnologie principali: React.js, Javascript, CSS, HTML5 | [Repo](https://github.com/GiuseppeLiGioi/personal-portfolio) |
+| **PulseFit** | App full-stack per gestire allenamenti e progressi, con autenticazione utente, CRUD per schede/esercizi, monitoraggio progressi utente e Stripe per pagamenti. | React.js, React Router, Context API, JWT, Node.js, Express, MySQL, WorkBench, bcrypt, Stripe, CSS | [Repo](https://github.com/GiuseppeLiGioi/gym-card) |
+| **FinanceDashboard** | Web app moderna e responsive per gestire finanze personali: con dashboard interattiva, gestione transazioni, grafici dinamici, tema chiaro/scuro, multilingua e import/export CSV. | React.js, Bootstrap CSS, Chart.js, Recharts, React Router, PapaParse e React-Toastify. | [Repo](https://github.com/GiuseppeLiGioi/personal-finance-dashboard) |
+| **KickShop** | E-commerce di articoli sportivi realizzato in team, con homepage dinamica, ricerca avanzata, pagina prodotto dettagliata, wishlist/carrello, checkout con validazioni e email di conferma. Backend sicuro e gestione completa dei dati. | {React.js, Node.js, Express, MySQL-Wokbench e Mailtrap. | [Repo](https://github.com/GiuseppeLiGioi/kick-shop) |
 
 ---
 
@@ -55,16 +55,16 @@
 
 ## 🎓 Education & Certifications  
 
-🎓 **Full Stack Web Development Bootcamp** — {Boolean} ({Nov 2024} – {Lug 2025})  
-📜 **{Full Stack Web Developer Certification }** — {Boolean} ({Apr 2025})  
-📜 **{Frontend Specialization Certification}** — {Boolean} ({Lug 2025})
+🎓 **Full Stack Web Development Bootcamp** — Boolean (Nov 2024 – Lug 2025)  
+📜 **Full Stack Web Developer Certification ** — Boolean (Apr 2025)  
+📜 **Frontend Specialization Certification** — Boolean (Lug 2025)
 
 ---
 
 ## 🌐 Languages  
 
 🇮🇹 Italiano — Madrelingua  
-🇬🇧 Inglese — {B1}  
+🇬🇧 Inglese — B1  
 
 ---
 
