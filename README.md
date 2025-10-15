@@ -84,7 +84,8 @@
 
 ## 🐍 GitHub Snake  
 
-![github-snake](https://github.com/GiuseppeLiGioi/GiuseppeLiGioi/blob/main/output/github-contribution-grid-snake.svg)
+![github-snake](https://raw.githubusercontent.com/GiuseppeLiGioi/GiuseppeLiGioi/main/output/github-contribution-grid-snake.svg)
+
 
 
 
