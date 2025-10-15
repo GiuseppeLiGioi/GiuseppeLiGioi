@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout della repo
+      # 1️⃣ Checkout della repo (attenzione a persist-credentials)
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: false
+          persist-credentials: true  # essenziale per permettere il push automatico
 
       # 2️⃣ Genera Snake SVG
       - name: Generate Snake
