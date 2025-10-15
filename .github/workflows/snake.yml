@@ -1,27 +1,24 @@
-name: Generate Snake Animation 🐍
+name: Generate GitHub Snake 🐍
 
 on:
+  workflow_dispatch:  
   schedule:
-    - cron: "0 0 * * *"  
-  workflow_dispatch:      
+    - cron: "0 0 * * *" 
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout del repository
+      # 1️⃣ Checkout della repo
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           persist-credentials: false
 
-      # 2️⃣ Generazione dello Snake
-      - name: Generate Snake animation
+      # 2️⃣ Generazione Snake statico SVG
+      - name: Generate Snake static SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: GiuseppeLiGioi
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-
+          outputs: output/github-contribution-grid-snake.svg
