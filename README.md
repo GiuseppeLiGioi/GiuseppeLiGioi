@@ -74,6 +74,7 @@
 🎓 **Full Stack Web Development Bootcamp** — Boolean (Nov 2024 – Lug 2025)  
 📜 **Full Stack Web Developer Certification** — Boolean (Apr 2025)  
 📜 **Frontend Specialization Certification** — Boolean (Lug 2025)
+🎓 **Diploma di Perito Informatico** — I.T.C.G. "A. Deffenu", Olbia (Val: 92/100)
 
 ---
 
