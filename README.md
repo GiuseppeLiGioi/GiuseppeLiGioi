@@ -75,7 +75,7 @@
 📜 **Full Stack Web Developer Certification** — Boolean (Apr 2025)  
 📜 **Frontend Specialization Certification** — Boolean (Lug 2025)
 
-🎓 **Diploma di Perito Informatico** — I.T.C.G. "A. Deffenu", Olbia (Val: 92/100)
+🎓 **Diplomato come Perito Informatico** — I.T.C.G. "A. Deffenu", Olbia (Val: 92/100, Giugno 2024)
 
 ---
 
